@@ -3,4 +3,4 @@
 
  -Static routing, RIP, OSPF and basic networking.
 
- -Learing to E16
+ -Learing to E.16
